@@ -1,0 +1,45 @@
+#navbarNav{
+    height: 50px;
+}
+img{
+display: block;
+margin: 0 auto;
+}
+#fila{
+    margin-top: 150px;
+}
+#fila2{
+ margin-top: 100px;
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 40,
+  'GRAD' 0,
+  'opsz' 20
+}
+a{
+    text-decoration: none;
+    color: red;
+
+}
+main{
+    font-family: 'Marck Script', cursive;
+
+    font-family: 'Oleo Script', cursive;
+
+    font-family: 'Playfair Display', serif;
+
+    font-family: 'PT Sans', sans-serif;
+
+    font-family: 'Roboto Condensed', sans-serif;
+
+    font-family: 'Titillium Web', sans-serif;
+
+}
+.spaced{
+    letter-spacing: 2px;
+}
+footer{
+    height: 200px;
+}

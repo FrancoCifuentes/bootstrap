@@ -1,0 +1,25 @@
+body{
+    background-color: #d95550;
+}
+.bg-button{
+    background-color: #e27c78;
+}
+.timer{
+    font-size: 7em;
+    font-weight: 600;
+    font-family: 'Marck Script', cursive;
+
+    font-family: 'Oleo Script', cursive;
+
+    font-family: 'Playfair Display', serif;
+
+    font-family: 'PT Sans', sans-serif;
+
+    font-family: 'Titillium Web', sans-serif;
+}
+.boton-start{
+    color: #d95550;
+    background-color: #ffffff;
+    border-bottom: 5px solid #ccc;
+    font-size: 2em;
+}
